@@ -1,14 +1,13 @@
 ## Siddharth Narigra
 
-Final-year Computer Engineering student focused on **Machine Learning and Computer Vision**.  
-I build **data-driven systems**, **real-time detection pipelines**, and **explainable ML workflows** using Python.
+Python developer focused on building practical data automation and analysis tools.
+
+I work on projects that handle messy real-world data, automate analysis workflows, and produce clear, usable outputs. I also have hands-on experience with applied machine learning, but my focus is on building things that actually work end-to-end.
 
 ---
 
 ### What I work on
-- Real-time computer vision systems (YOLOv5, OpenCV, CPU-optimized pipelines)
-- End-to-end ML workflows: data cleaning, training, evaluation, deployment
-- Explainable ML and automation using multi-agent systems
-- Practical engineering with real datasets and measurable performance
-
----
+- Python-based data automation and reporting tools
+- Data cleaning, exploratory analysis, and workflow automation
+- Building simple user-facing tools (scripts, apps, dashboards)
+- Applied machine learning with an emphasis on evaluation and explainability
